@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "todoapp",
-    "slug": "todoapp",
+    "name": "mriritodoapp",
+    "slug": "mriritodoapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "To do app with react native"
   }
 }
